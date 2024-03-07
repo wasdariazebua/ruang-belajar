@@ -1,0 +1,4 @@
+# Namun kita tidak ingin file test.html di-commit di Git, 
+# karena file itu hanya sample page percobaan pribadi. 
+# Akhirnya kita harus mendaftarkannya ke file .gitignore.
+test.html
